@@ -1,0 +1,5 @@
+{
+  "_comment": "Copy this file to feishu.config.json (same directory). Only your chatId goes here — bot credentials and bitable are pre-wired.",
+  "_chatId": "Your personal conversation with 体验监控助手 (format: oc_xxxxxxxx). Open the chat in Feishu PC → ··· → Copy link → grab the openId segment.",
+  "chatId": "oc_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}
